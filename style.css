@@ -1,3 +1,10 @@
-body{
-  background-color: lightgrey;
+* {
+  font-family: Arial, Sans-serif, serif;
+}
+body {
+  background-color: lightyellow;
+}
+
+h1{
+  color: lightcoral;
 }
