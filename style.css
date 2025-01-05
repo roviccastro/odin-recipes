@@ -8,3 +8,13 @@ body {
 h1{
   color: lightcoral;
 }
+h2, h3{
+  color: #b26767;
+}
+
+a{
+  color: rgba(0, 123, 123, 0.5)
+}
+p, ul, ol, li{
+  color: cornflowerblue;
+}
