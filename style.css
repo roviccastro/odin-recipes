@@ -8,6 +8,11 @@ body {
 h1{
   color: lightcoral;
 }
+
+.description{
+  text-align: center;
+}
+
 h2, h3{
   color: #b26767;
 }
