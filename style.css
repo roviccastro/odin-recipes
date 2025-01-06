@@ -28,3 +28,7 @@ a{
 p, ul, ol, li{
   color: cornflowerblue;
 }
+
+.instructions{
+  text-align: justify;
+}
